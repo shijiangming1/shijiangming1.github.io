@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Xiangbo Yin's Homepage"
+title                    : "Jiangming Shi's Homepage"
 title_separator          : "-"
-name                     : &name "Xiangbo Yin"
+name                     : &name "Jiangming Shi"
 description              : &description "Xiamen University"
 url                      : https://xiangboyin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "XiangboYin/xiangboyin.github.io"
+repository               : "shijiangming1/shijiangming1.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -22,18 +22,18 @@ repository               : "XiangboYin/xiangboyin.github.io"
 author:
   # Biographic information
   avatar           : "yxb-profile.jpg"
-  name             : "Xiangbo Yin(尹祥博)"
+  name             : "Jiangming Shi(施江鸣)"
   pronouns         : # example: "she/her"  
   bio              : "Research Interests: Person Re-identification. "
   location         : "Xiamen, Fujian, China"
   employer         : "Xiamen University"
   uri              : # URL
-  email            : "xiangboyin@stu.xmu.edu.cn"
+  email            : "jiangming.shi@outlook.com"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=H1rqfM4AAAAJ&hl=zh-CN"
-  dblp             : "https://dblp.org/pid/364/6552.html"
+  googlescholar    : "https://scholar.google.com/citations?user=Go9q2jsAAAAJ&hl=zh-CN"
+  dblp             : "https://dblp.org/pid/304/1527.html"
   impactstory      : # URL
   orcid            : #"http://orcid.org/yourorcidurl"
   semantic         : # URL
@@ -44,7 +44,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "XiangboYin"
+  github           : "shijiangming1"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
