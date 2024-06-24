@@ -8,15 +8,14 @@ author_profile: true
 
 ## Conference Reviewer
 <ul>
-    <li></li>
-    <li></li>
-    <li></li>
+    <li>NeurIPS</li>
+    <li>CVPR</li>
+    <li>ECCV</li>
+    <li>ACM MM</li>
 </ul>
 
 
 ## Journal Reviewer
 <ul>
-    <li></li>
-    <li></li>
-    <li></li>
+    <li>TIP</li>
 </ul>
