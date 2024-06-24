@@ -21,7 +21,7 @@ repository               : "shijiangming1/shijiangming1.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "yxb-profile.jpg"
+  avatar           : "sjm-profile.jpg"
   name             : "Jiangming Shi(施江鸣)"
   pronouns         : # example: "she/her"  
   bio              : "Research Interests: Person Re-identification. "
