@@ -12,7 +12,7 @@ title                    : "Jiangming Shi's Homepage"
 title_separator          : "-"
 name                     : &name "Jiangming Shi"
 description              : &description "Xiamen University"
-url                      : https://xiangboyin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://shijiangming1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "shijiangming1/shijiangming1.github.io"
 
