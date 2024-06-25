@@ -18,6 +18,9 @@ My name is Jiangming Shi (施江鸣), I'm a Ph.D. student at Institute of Artifi
   <li>
     <strong><i>2023.12:</i></strong> 🎉 My paper is accepted by AAAI 2024.
   </li>
+      <li>
+    <strong><i>2024.03:</i></strong> 🎉 My paper is accepted by CAC 2023.
+  </li>
     <li>
     <strong><i>2023.10:</i></strong> 🎉 My paper is awarded as Best Paper by CCHI 2023.
   </li>
