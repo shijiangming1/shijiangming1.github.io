@@ -16,18 +16,18 @@ My name is Jiangming Shi (施江鸣), I'm a Ph.D. student at Institute of Artifi
 <hr>
 <ul>
   <li>
-    <strong><i>2023.12:</i></strong> 🎉 My paper is accepted by AAAI 2024.
+    <strong><i>2023.12:</i></strong> 🎉 One paper about federated learning is accepted by AAAI 2024.
   </li>
       <li>
-    <strong><i>2024.03:</i></strong> 🎉 My paper is accepted by CAC 2023.
+    <strong><i>2024.03:</i></strong> 🎉 One paper about visible-infrared ReID is accepted by CAC 2023.
   </li>
     <li>
-    <strong><i>2023.10:</i></strong> 🎉 My paper is awarded as Best Paper by CCHI 2023.
+    <strong><i>2023.10:</i></strong> 🎉 One paper about visible-infrared ReID is awarded as Best Paper by CCHI 2023.
   </li>
   <li>
-    <strong><i>2023.07:</i></strong> 🎉 My paper is accepted by ICCV 2023.
+    <strong><i>2023.07:</i></strong> 🎉 One paper about visible-infrared ReID is accepted by ICCV 2023.
   </li>
     <li>
-    <strong><i>2021.10:</i></strong> 🎉 My paper is accepted by ACM MM 2021.
+    <strong><i>2021.10:</i></strong> 🎉 One paper about face alignment is accepted by ACM MM 2021.
   </li>
 </ul>
