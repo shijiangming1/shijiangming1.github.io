@@ -15,6 +15,9 @@ My name is Jiangming Shi (施江鸣), I'm a Ph.D. student at Institute of Artifi
 ======
 <hr>
 <ul>
+    <li>
+    <strong><i>2024.07:</i></strong> 🎉 One paper is accepted by ECCV 2024.
+  </li>
   <li>
     <strong><i>2023.12:</i></strong> 🎉 One paper about federated learning is accepted by AAAI 2024.
   </li>
