@@ -94,7 +94,7 @@ table, th, td {
                   <br>
                   <a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Shi_Dual_Pseudo-Labels_Interactive_Self-Training_for_Semi-Supervised_Visible-Infrared_Person_Re-Identification_ICCV_2023_paper.pdf"><img src="https://img.shields.io/badge/-Paper-blue?logo=microsoftpowerpoint&logoColor=B7472A&labelColor=white&color=F5F5F5&style=flat" alt="paper"></a>&nbsp;&nbsp;
                   <a href="https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=H1rqfM4AAAAJ&citation_for_view=H1rqfM4AAAAJ:u5HHmVD_uO8C"><img src="https://img.shields.io/badge/dynamic/json?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FXiangboYin%2Fxiangboyin.github.io%40google-scholar-stats%2Fgs_data.json&query=$[%27publications%27][%27H1rqfM4AAAAJ:u5HHmVD_uO8C%27][%27num_citations%27]&labelColor=f6f6f6&color=9cf&style=flat&label=Citations" alt="Citations"></a>&nbsp;&nbsp;
-                  <a href="https://github.com/shijiangming1/DPIS"><img src="https://img.shields.io/github/stars/shijiangming1/DPIS?style=social" alt="GitHub Stars"></a>&nbsp;&nbsp;
+                  <a href="https://github.com/XiangboYin/DPIS_SSVI-ReID"><img src="https://img.shields.io/github/stars/shijiangming1/DPIS?style=social" alt="GitHub Stars"></a>&nbsp;&nbsp;
                   <a href="{{ base_path }}/ciations/DPIS.md"><img src="https://img.shields.io/badge/-BibTeX-blue?labelColor=white&color=F5F5F5&logo=latex&logoColor=008080" alt="BibTeX"></a>                  
                 </td>
               </tr>            
