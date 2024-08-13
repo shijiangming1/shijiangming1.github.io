@@ -8,10 +8,11 @@ author_profile: true
 
 ## Conference Reviewer
 <ul>
-    <li>NeurIPS</li>
-    <li>CVPR</li>
-    <li>ECCV</li>
-    <li>ACM MM</li>
+    <li>AAAI 2025</li>
+    <li>NeurIPS 2024</li>
+    <li>CVPR 2024</li>
+    <li>ECCV 2024</li>
+    <li>ACM MM 2024</li>
 </ul>
 
 
