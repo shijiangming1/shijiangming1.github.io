@@ -15,6 +15,9 @@ My name is Jiangming Shi (施江鸣), I'm a Ph.D. student at Institute of Artifi
 ======
 <hr>
 <ul>
+   <li>
+    <strong><i>2024.09:</i></strong> 🎉 One paper about visible-infrared Re-ID is accepted by NeurIPS 2024.
+  </li>
      <li>
     <strong><i>2024.07:</i></strong> 🎉 One paper about visible-infrared Re-ID is accepted by ACM MM 2024.
   </li>
