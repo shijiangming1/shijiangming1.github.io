@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Jiangming Shi's Homepage"
+title                    : "Jiangming Shi"
 title_separator          : "-"
 name                     : &name "Jiangming Shi"
 description              : &description "Xiamen University"
@@ -24,7 +24,7 @@ author:
   avatar           : "sjm-profile.jpg"
   name             : "Jiangming Shi(施江鸣)"
   pronouns         : # example: "she/her"  
-  bio              : "Research Interests: Person Re-identification. "
+  bio              : "Research Interests: Multi-Modality Learning. "
   location         : "Xiamen, Fujian, China"
   employer         : "Xiamen University"
   uri              : # URL
