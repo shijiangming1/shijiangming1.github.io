@@ -37,6 +37,6 @@ My name is Jiangming Shi (施江鸣), I'm a Ph.D. student at Institute of Artifi
     <strong><i>2023.07:</i></strong> 🎉 One first-authored paper is accepted by ICCV 2023.
   </li>
   <li>
-    <strong><i>2021.10:</i></strong> 🎉 Onefirst-authored  paper is accepted by ACM MM 2021.
+    <strong><i>2021.10:</i></strong> 🎉 One first-authored  paper is accepted by ACM MM 2021.
   </li>
 </ul>
