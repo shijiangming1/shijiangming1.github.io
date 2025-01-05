@@ -16,6 +16,9 @@ My name is Jiangming Shi (施江鸣), I'm a Ph.D. student at Institute of Artifi
 <hr>
 <ul>
    <li>
+    <strong><i>2025.01:</i></strong> 🎉 I was supported by the Youth Talents support Project - Doctoral Student Special Program.
+  </li>
+   <li>
     <strong><i>2024.09:</i></strong> 🎉 One first-authored paper is accepted by NeurIPS 2024.
   </li>
      <li>
