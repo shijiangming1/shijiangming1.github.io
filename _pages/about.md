@@ -15,6 +15,9 @@ My name is Jiangming Shi (施江鸣), I'm a Ph.D. student at Institute of Artifi
 ======
 <hr>
 <ul>
+  <li>
+    <strong><i>2025.05:</i></strong> 🎉 One corresponding-authored paper is accepted by ICML 2025.
+  </li>
    <li>
     <strong><i>2025.01:</i></strong> 🎉 I was supported by Young Elite Scientists Sponsorship Program by CAST - Doctoral Student Special Plan.
   </li>
