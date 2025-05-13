@@ -16,6 +16,9 @@ My name is Jiangming Shi (施江鸣), I'm a Ph.D. student at Institute of Artifi
 <hr>
 <ul>
   <li>
+    <strong><i>2025.05:</i></strong> 🎉 One first-authored paper is accepted by Pattern Recognition.
+  </li>
+  <li>
     <strong><i>2025.05:</i></strong> 🎉 One corresponding-authored paper is accepted by ICML 2025.
   </li>
    <li>
