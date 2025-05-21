@@ -8,7 +8,7 @@ redirect_from:
 ---
 <hr>
 <!-- My name is Jiangming Shi (施江鸣), I'm a Ph.D. student at Institute of Artificial Intelligence, Xiamen University, supervised by Professor Yanyun Qu (曲延云). My research interests are deep learning and computer vision algorithms, such as Multi-modal Learning. -->
-Hi, my name is Jiangming Shi (Chinese: 施江鸣), a Ph.D. Candidate (3<sup>nd</sup> year student, 2022.09-2026.06) in the Institute of Artificial Intelligence at Xiamen University (XMU), advised by Prof. Yanyun Qu (Chinese: 曲延云) and Dr. Prof. Yuan Xie (Chinese: 谢源). My research interests are multi-modal learning and multi-modal LLM.
+Hi, my name is Jiangming Shi (Chinese: 施江鸣), a Ph.D. Candidate (3<sup>nd</sup> year student, 2022.09-2026.06) in the Institute of Artificial Intelligence at Xiamen University (XMU), advised by Prof. Yanyun Qu (Chinese: 曲延云) and Prof. Yuan Xie (Chinese: 谢源). My research interests are multi-modal learning and multi-modal LLM.
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 **PS: If you are interested in collaborating with me or want to have a chat, always feel free to contact me through e-mail, or <ins>Wechat</ins>: jaymishi**
