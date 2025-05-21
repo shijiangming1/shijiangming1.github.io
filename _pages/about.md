@@ -55,11 +55,21 @@ Hi, my name is Jiangming Shi (Chinese: 施江鸣), a Ph.D. Candidate (3<sup>nd</
     <strong><i>2021.10:</i></strong> 🎉 One first-authored  paper is accepted by ACM MM 2021.
   </li>
 </ul>
-<!--
+
 ### Publications
-1. **Yichen Li**, Yuying Wang, Haozhao Wang, Yining Qi, Tianzhe Xiao, Ruixuan Li. [Rehearsal-Free Continual Federated Learning with Synergistic Synaptic Intelligence](https://arxiv.org/pdf/2412.13779). The Thirteenth International Conference on Learning Representations (ICML'25), Spotlight **<font color=Red>(CCF-A)</font>**
-2. **Yichen Li**, Yijing Shan, Yi Liu, Haozhao Wang, Wei Wang, Yi Wang, Ruixuan Li. [Personalized Federated Recommendation for Cold-Start Users via Adaptive Knowledge Fusion](https://openreview.net/pdf?id=bhWngwuo74). The 34th ACM Web Conference (WWW'25), Australia, 2025 **<font color=Red>(CCF-A)</font>**
-3. **Yichen Li**, Wenchao Xu, Haozhao Wang, Ruixuan Li, Yining Qi, Jingcai Guo. [Personalized Federated Domain-Incremental Learning based on Adaptive Knowledge Matching](https://arxiv.org/pdf/2407.05005). The Eighteenth European Conference on Computer Vision (ECCV'24), Italy, 2024 **<font color=Red>(CAAI-A)</font>**
+1. Yeyun Chen, Jiangming Shi*. [Multilevel Informed Prompt Tuning for Robust Molecular Property Prediction]. The Thirteenth International Conference on Learning Representations (ICML'25) **<font color=Red>(CCF-A)</font>**
+2. Jiangming Shi#, Xiangbo Yin#, Yaoxing Wang, Xiaofeng Liu, Yuan Xie, Yanyun Qu*. [Learning Commonality, Divergence and Variety for Unsupervised Visible-Infrared Person Re-identification]. The Thirty-Eighth Annual Conference on Neural Information Processing Systems (NeurIPS'24) **<font color=Red>(CCF-A)</font>**
+3. Jiangming Shi, Shanshan Zheng, Xiangbo Yin, Yang Lu, Yuan Xie, Yanyun Qu*.  [CLIP-Guided Federated Learning on Heterogeneous and Long-Tailed Data]. The 38th Annual AAAI Conference on Artificial Intelligence (AAAI'24) **<font color=Red>(CCF-A)</font>**
+4. Jiangming Shi, Xiangbo Yin, Yeyun Chen, Yachao Zhang, Zhizhong Zhang, Yuan Xie, Yanyun Qu*. [Multi-Memory Matching for Unsupervised Visible-Infrared Person Re-Identification]. The Eighteenth European Conference on Computer Vision (ECCV'24), Italy, 2024 **<font color=Red>(CAAI-A)</font>**
+5. Xiangbo Yin#, Jiangming Shi#, Yachao Zhang, Yang Lu, Zhizhong Zhang, Yuan Xie, Yanyun Qu*. [Robust Pseudo-label Learning with Neighbor Relation for Unsupervised Visible-Infrared Person Re-Identification]. (ACM MM'24) **<font color=Red>(CCF-A)</font>**
+6. Jiangming Shi#, Yachao Zhang#, Xiangbo Yin, Yuan Xie, Zhizhong Zhang, Jianping Fan, Zhongchao Shi, Yanyun Qu*. [Dual Pseudo-Labels Interactive Self-Training for Semi-Supervised Visible-Infrared Person Re-Identification]. IEEE/CVF International Conference on Computer Vision (ICCV'23) **<font color=Red>(CCF-A)</font>**
+7. Jiangming Shi,  Xiangbo Yin, Demao Zhang, Yanyun Qu*. [Visible Embraces Infrared: Cross-Modality Person Re-identification with Single-Modality Supervision]. (CCHI'23) **<font color=Red>(CAA-A)</font>**
+8. Jiangming Shi, Zixian Gao, Hao Liu. [ Exploiting invariance of mining facial landmarks]. (ACM MM'21) **<font color=Red>(CCF-A)</font>**
+9. Jiangming Shi, Xiangbo Yin, Demao Zhang, Zhizhong Zhang, Yuan Xie, Yanyun Qu*. [Two-Stage Knowledge Distillation for Visible-Infrared Person Re-Identification]. (PR) **<font color=Red>(CCF-B)</font>**
+10.Xiangbo Yin#, Jiangming Shi#, Zhizhong Zhang, Yuan Xie, Yanyun Qu*. [Adaptive Pseudo-label Purification and Debiasing for Unsupervised Visible-Infrared Person Re-Identification]. (TCSVT) **<font color=Red>(CCF-B)</font>**
+
+<!--
+The Eighteenth European Conference on Computer Vision (ECCV'24), Italy, 2024 **<font color=Red>(CAAI-A)</font>**
 4. **Yichen Li**, Qunwei Li, Haozhao Wang, Ruixuan Li, Wenliang Zhong, Guannan Zhang. [Towards Efficient Replay in Federated Incremental Learning](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Towards_Efficient_Replay_in_Federated_Incremental_Learning_CVPR_2024_paper.pdf). The Thirty-Fifth IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'24), USA, 2024 **<font color=Red>(CCF-A)</font>**
 5. Haozhao Wang, Haoran Xu, **Yichen Li**, Ruixuan Li, Tianwei Zhang. [FedCDA: Federated Learning with Cross-rounds Divergence-aware Aggregation](https://openreview.net/pdf?id=nbPGqeH3lt). Twelfth International Conference on Learning Representations (ICLR'24), Austria, 2024 (Co-author) **<font color=Red>(CAAI-A)</font>**
 6. Haozhao Wang, **Yichen Li**, Wenchao Xu, Ruixuan Li, Yufeng Zhan, Zhigang Zeng. [DaFKD: Domain-aware Federated Knowledge Distillation](http://openaccess.thecvf.com/content/CVPR2023/papers/Wang_DaFKD_Domain-Aware_Federated_Knowledge_Distillation_CVPR_2023_paper.pdf). The Thirty-Fourth IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'23), Canada, 2023 **<font color=Red>(CCF-A)</font>**
@@ -90,6 +100,6 @@ with Privacy Preference](https://arxiv.org/pdf/2505.04889). The ACM Internationa
 - Reviewer for NeurIPS'24, CVPR'24, ECCV'24, ACM MM'24
   
 ### Journal Reviewer
-- Reviewer for TIP
-- Reviewer for TIFS
-- Reviewer for Transactions on Emerging Topics in Computational Intelligence (TETCI)
+- Reviewer for IEEE Transactions on Image Processing (TIP)
+- Reviewer for IEEE Transactions on Information Forensics and Security
+- Reviewer for IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI)
