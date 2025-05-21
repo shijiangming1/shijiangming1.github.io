@@ -57,29 +57,24 @@ Hi, my name is Jiangming Shi (Chinese: 施江鸣), a Ph.D. Candidate (3<sup>nd</
 </ul>
 
 ### Publications
-1. Yeyun Chen, Jiangming Shi*. Multilevel Informed Prompt Tuning for Robust Molecular Property Prediction. The Thirteenth International Conference on Learning Representations (ICML'25) **<font color=Red>(CCF-A)</font>**
-2. Jiangming Shi#, Xiangbo Yin#, Yaoxing Wang, Xiaofeng Liu, Yuan Xie, Yanyun Qu*. Learning Commonality, Divergence and Variety for Unsupervised Visible-Infrared Person Re-identification. NeurIPS'24 **<font color=Red>(CCF-A)</font>**
+1. Yeyun Chen, Jiangming Shi*. Multilevel Informed Prompt Tuning for Robust Molecular Property Prediction. ICML'25 **<font color=Red>(CCF-A)</font>**
+2. Jiangming Shi, Xiangbo Yin, Yaoxing Wang, Xiaofeng Liu, Yuan Xie, Yanyun Qu*. Learning Commonality, Divergence and Variety for Unsupervised Visible-Infrared Person Re-identification. NeurIPS'24 **<font color=Red>(CCF-A)</font>**
 3. Jiangming Shi, Shanshan Zheng, Xiangbo Yin, Yang Lu, Yuan Xie, Yanyun Qu*. CLIP-Guided Federated Learning on Heterogeneous and Long-Tailed Data. AAAI'24 **<font color=Red>(CCF-A)</font>**
 4. Jiangming Shi, Xiangbo Yin, Yeyun Chen, Yachao Zhang, Zhizhong Zhang, Yuan Xie, Yanyun Qu*. Multi-Memory Matching for Unsupervised Visible-Infrared Person Re-Identification. ECCV'24 **<font color=Red>(CAAI-A)</font>**
 5. Xiangbo Yin#, Jiangming Shi#, Yachao Zhang, Yang Lu, Zhizhong Zhang, Yuan Xie, Yanyun Qu*. Robust Pseudo-label Learning with Neighbor Relation for Unsupervised Visible-Infrared Person Re-Identification. ACM MM'24 **<font color=Red>(CCF-A)</font>**
-6. Jiangming Shi#, Yachao Zhang#, Xiangbo Yin, Yuan Xie, Zhizhong Zhang, Jianping Fan, Zhongchao Shi, Yanyun Qu*. Dual Pseudo-Labels Interactive Self-Training for Semi-Supervised Visible-Infrared Person Re-Identification. ICCV'23 **<font color=Red>(CCF-A)</font>**
+6. Jiangming Shi, Yachao Zhang, Xiangbo Yin, Yuan Xie, Zhizhong Zhang, Jianping Fan, Zhongchao Shi, Yanyun Qu*. Dual Pseudo-Labels Interactive Self-Training for Semi-Supervised Visible-Infrared Person Re-Identification. ICCV'23 **<font color=Red>(CCF-A)</font>**
 7. Jiangming Shi,  Xiangbo Yin, Demao Zhang, Yanyun Qu*. Visible Embraces Infrared: Cross-Modality Person Re-identification with Single-Modality Supervision. CCHI'23 **<font color=Red>(CAA-A)</font>**
 8. Jiangming Shi, Zixian Gao, Hao Liu. Exploiting invariance of mining facial landmarks. ACM MM'21 **<font color=Red>(CCF-A)</font>**
-9. Jiangming Shi, Xiangbo Yin, Demao Zhang, Zhizhong Zhang, Yuan Xie, Yanyun Qu*. Two-Stage Knowledge Distillation for Visible-Infrared Person Re-Identification. PR
-10.Xiangbo Yin#, Jiangming Shi#, Zhizhong Zhang, Yuan Xie, Yanyun Qu*. Adaptive Pseudo-label Purification and Debiasing for Unsupervised Visible-Infrared Person Re-Identification. TCSVT 
-
-
-
+9. Jiangming Shi, Xiangbo Yin, Demao Zhang, Zhizhong Zhang, Yuan Xie, Yanyun Qu*. Two-Stage Knowledge Distillation for Visible-Infrared Person Re-Identification. PR2025
+10. Xiangbo Yin#, Jiangming Shi#, Zhizhong Zhang, Yuan Xie, Yanyun Qu*. Adaptive Pseudo-label Purification and Debiasing for Unsupervised Visible-Infrared Person Re-Identification. TCSVT2025
 
 ## 🏆 Honor & Award
 - 2025.01 Young Elite Scientists Sponsorship Program - Doctoral Student Special Plan (<ins>中国科协青年托举人才-博士生专项计划</ins>), CAST
 - 2024.12 Bank of China Scholarship (<ins>中国银行奖学金</ins>), only 1 Ph.D. student in Institute of Artificial Intelligence, XMU
 - 2023.10 Best Paper Award (<ins>最佳论文奖</ins>), CCHI
 
-
 ## 🙂 Preprint
 1. Jiangming Shi, Xiangbo Yin, Demao Zhang, Zhizhong Zhang, Yuan Xie, Yanyun Qu*.  [Multi-Schema Proximity Network for Composed Image Retrieval]. Submitted to IEEE/CVF International Conference on Computer Vision  (ICCV'25) **<font color=Red>(CCF-A)</font>**
-
 
 ## 💬 Academic Service
 ### Conference Committee Member
