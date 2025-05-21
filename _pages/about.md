@@ -56,7 +56,7 @@ Hi, my name is Jiangming Shi (Chinese: 施江鸣), a Ph.D. Candidate (3<sup>nd</
   </li>
 </ul>
 
-### Publications
+## 📝 Publications
 1. Yeyun Chen, Jiangming Shi*. Multilevel Informed Prompt Tuning for Robust Molecular Property Prediction. ICML'25 **<font color=Red>(CCF-A)</font>**
 2. Jiangming Shi, Xiangbo Yin, Yaoxing Wang, Xiaofeng Liu, Yuan Xie, Yanyun Qu*. Learning Commonality, Divergence and Variety for Unsupervised Visible-Infrared Person Re-identification. NeurIPS'24 **<font color=Red>(CCF-A)</font>**
 3. Jiangming Shi, Shanshan Zheng, Xiangbo Yin, Yang Lu, Yuan Xie, Yanyun Qu*. CLIP-Guided Federated Learning on Heterogeneous and Long-Tailed Data. AAAI'24 **<font color=Red>(CCF-A)</font>**
@@ -84,5 +84,5 @@ Hi, my name is Jiangming Shi (Chinese: 施江鸣), a Ph.D. Candidate (3<sup>nd</
   
 ### Journal Reviewer
 - Reviewer for IEEE Transactions on Image Processing (TIP)
-- Reviewer for IEEE Transactions on Information Forensics and Security
+- Reviewer for IEEE Transactions on Information Forensics and Security (TIFS)
 - Reviewer for IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI)
