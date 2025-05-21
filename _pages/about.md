@@ -65,8 +65,8 @@ Hi, my name is Jiangming Shi (Chinese: 施江鸣), a Ph.D. Candidate (3<sup>nd</
 6. Jiangming Shi, Yachao Zhang, Xiangbo Yin, Yuan Xie, Zhizhong Zhang, Jianping Fan, Zhongchao Shi, Yanyun Qu*. Dual Pseudo-Labels Interactive Self-Training for Semi-Supervised Visible-Infrared Person Re-Identification. ICCV'23 **<font color=Red>(CCF-A)</font>**
 7. Jiangming Shi,  Xiangbo Yin, Demao Zhang, Yanyun Qu*. Visible Embraces Infrared: Cross-Modality Person Re-identification with Single-Modality Supervision. CCHI'23 **<font color=Red>(CAA-A)</font>**
 8. Jiangming Shi, Zixian Gao, Hao Liu. Exploiting invariance of mining facial landmarks. ACM MM'21 **<font color=Red>(CCF-A)</font>**
-9. Jiangming Shi, Xiangbo Yin, Demao Zhang, Zhizhong Zhang, Yuan Xie, Yanyun Qu*. Two-Stage Knowledge Distillation for Visible-Infrared Person Re-Identification. PR2025
-10. Xiangbo Yin#, Jiangming Shi#, Zhizhong Zhang, Yuan Xie, Yanyun Qu*. Adaptive Pseudo-label Purification and Debiasing for Unsupervised Visible-Infrared Person Re-Identification. TCSVT2025
+9. Jiangming Shi, Xiangbo Yin, Demao Zhang, Zhizhong Zhang, Yuan Xie, Yanyun Qu*. Two-Stage Knowledge Distillation for Visible-Infrared Person Re-Identification. PR'25
+10. Xiangbo Yin#, Jiangming Shi#, Zhizhong Zhang, Yuan Xie, Yanyun Qu*. Adaptive Pseudo-label Purification and Debiasing for Unsupervised Visible-Infrared Person Re-Identification. TCSVT'25
 
 ## 🏆 Honor & Award
 - 2025.01 Young Elite Scientists Sponsorship Program - Doctoral Student Special Plan (<ins>中国科协青年托举人才-博士生专项计划</ins>), CAST
