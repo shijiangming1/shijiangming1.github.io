@@ -11,7 +11,7 @@ redirect_from:
 Hi, my name is Jiangming Shi (Chinese: 施江鸣), a Ph.D. Candidate (3<sup>nd</sup> year student, 2022.09-2026.06) in the Institute of Artificial Intelligence at Xiamen University (XMU), advised by Prof. Yanyun Qu (Chinese: 曲延云) and Prof. Yuan Xie (Chinese: 谢源). My research interests are multi-modal learning and multi-modal LLM.
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
-**PS: If you are interested in collaborating with me or want to have a chat, always feel free to contact me through e-mail, or <ins>Wechat</ins>: jaymishi**
+**PS: If you want to have a chat, always feel free to contact me through e-mail, or <ins>Wechat</ins>: jaymishi**
 
 
 🔥 News
@@ -70,7 +70,7 @@ Hi, my name is Jiangming Shi (Chinese: 施江鸣), a Ph.D. Candidate (3<sup>nd</
 
 ## 🏆 Honor & Award
 - 2025.01 Young Elite Scientists Sponsorship Program - Doctoral Student Special Plan (<ins>中国科协青年人才托举工程-博士生专项计划</ins>), CAST
-- 2024.12 Bank of China Scholarship (<ins>中国银行奖学金</ins>), only 1 Ph.D. student in Institute of Artificial Intelligence, XMU
+- 2024.12 Bank of China Scholarship (<ins>中国银行奖学金</ins>), XMU
 - 2023.10 Best Paper Award (<ins>最佳论文奖</ins>), CCHI
 
 ## 🙂 Preprint
