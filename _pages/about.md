@@ -85,4 +85,5 @@ Hi, my name is Jiangming Shi (Chinese: 施江鸣), a Ph.D. Candidate (3<sup>nd</
 ### Journal Reviewer
 - Reviewer for IEEE Transactions on Image Processing (TIP)
 - Reviewer for IEEE Transactions on Information Forensics and Security (TIFS)
+- Reviewer for IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
 - Reviewer for IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI)
