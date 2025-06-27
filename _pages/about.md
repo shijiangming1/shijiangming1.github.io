@@ -19,7 +19,7 @@ Hi, my name is Jiangming Shi (Chinese: 施江鸣), a Ph.D. Candidate (3<sup>nd</
 <hr>
 <ul>
   <li>
-    <strong><i>2025.06:</i></strong> 🎉 Two papers is accepted by ICCV2025.
+    <strong><i>2025.06:</i></strong> 🎉 Two papers are accepted by ICCV2025.
   </li>
   <li>
     <strong><i>2025.05:</i></strong> 🎉 One co-first-authored paper is accepted by TCSVT.
