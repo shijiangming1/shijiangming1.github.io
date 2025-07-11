@@ -77,8 +77,6 @@ Hi, my name is Jiangming Shi (Chinese: 施江鸣), a Ph.D. Candidate (3<sup>nd</
 - 2024.12 Bank of China Scholarship (<ins>中国银行奖学金</ins>), XMU
 - 2023.10 Best Paper Award (<ins>最佳论文奖</ins>), CCHI
 
-## 🙂 Preprint
-1. Jiangming Shi, Xiangbo Yin, Demao Zhang, Zhizhong Zhang, Yuan Xie, Yanyun Qu*. Multi-Schema Proximity Network for Composed Image Retrieval. Submitted to IEEE/CVF International Conference on Computer Vision  (ICCV'25) **<font color=Red>(CCF-A)</font>**
 
 ## 💬 Academic Service
 ### Conference Committee Member
