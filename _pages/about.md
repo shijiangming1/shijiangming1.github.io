@@ -74,7 +74,7 @@ Hi, my name is Jiangming Shi (Chinese: 施江鸣), a Ph.D. Candidate student in 
 11. Xiangbo Yin#, Jiangming Shi#, Zhizhong Zhang, Yuan Xie, Yanyun Qu*. Adaptive Pseudo-label Purification and Debiasing for Unsupervised Visible-Infrared Person Re-Identification. TCSVT'25
 
 ## 🏆 Honor & Award
-- 2025.11 National Scholarship(<ins>国家奖学金</ins>)
+- 2025.11 National Scholarship (<ins>国家奖学金</ins>)
 - 2025.01 Young Elite Scientists Sponsorship Program - Doctoral Student Special Plan (<ins>中国科协青年人才托举工程-博士生专项计划</ins>), CAST
 - 2024.12 Bank of China Scholarship (<ins>中国银行奖学金</ins>), XMU
 - 2023.10 Best Paper Award (<ins>最佳论文奖</ins>), CCHI
