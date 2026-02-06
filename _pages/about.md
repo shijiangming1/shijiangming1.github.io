@@ -17,7 +17,7 @@ Hi, my name is Jiangming Shi (Chinese: 施江鸣), a Ph.D. Candidate student in 
 <hr>
 <ul>
   <li>
-    <strong><i>2026.1:</i></strong> 🎉 One papers are accepted by ICRA 2026.
+    <strong><i>2026.01:</i></strong> 🎉 One papers are accepted by ICRA 2026.
   </li>
   <li>
     <strong><i>2025.11:</i></strong> 🎉 Two papers are accepted by AAAI 2026 (One Oral).
@@ -68,7 +68,7 @@ Hi, my name is Jiangming Shi (Chinese: 施江鸣), a Ph.D. Candidate student in 
 2. Yeyun Chen, Jiangming Shi*. Multilevel Informed Prompt Tuning for Robust Molecular Property Prediction. ICML'25 **<font color=Red>(CCF-A)</font>**
 3. Jiangming Shi, Xiangbo Yin, Yaoxing Wang, Xiaofeng Liu, Yuan Xie, Yanyun Qu*. Learning Commonality, Divergence and Variety for Unsupervised Visible-Infrared Person Re-identification. NeurIPS'24 **<font color=Red>(CCF-A)</font>**
 4. Jiangming Shi, Shanshan Zheng, Xiangbo Yin, Yang Lu, Yuan Xie, Yanyun Qu*. CLIP-Guided Federated Learning on Heterogeneous and Long-Tailed Data. AAAI'24 **<font color=Red>(CCF-A)</font>**
-5. Jiangming Shi, Xiangbo Yin, Yeyun Chen, Yachao Zhang, Zhizhong Zhang, Yuan Xie, Yanyun Qu*. Multi-Memory Matching for Unsupervised Visible-Infrared Person Re-Identification. ECCV'24 **<font color=Red>(CAAI-A)</font>**
+5. Jiangming Shi, Xiangbo Yin, Yeyun Chen, Yachao Zhang, Zhizhong Zhang, Yuan Xie, Yanyun Qu*. Multi-Memory Matching for Unsupervised Visible-Infrared Person Re-Identification. ECCV'24 **<font color=Blue>(CCF-B)</font>**
 6. Xiangbo Yin#, Jiangming Shi#, Yachao Zhang, Yang Lu, Zhizhong Zhang, Yuan Xie, Yanyun Qu*. Robust Pseudo-label Learning with Neighbor Relation for Unsupervised Visible-Infrared Person Re-Identification. ACM MM'24 **<font color=Red>(CCF-A)</font>**
 7. Jiangming Shi, Yachao Zhang, Xiangbo Yin, Yuan Xie, Zhizhong Zhang, Jianping Fan, Zhongchao Shi, Yanyun Qu*. Dual Pseudo-Labels Interactive Self-Training for Semi-Supervised Visible-Infrared Person Re-Identification. ICCV'23 **<font color=Red>(CCF-A)</font>**
 8. Jiangming Shi,  Xiangbo Yin, Demao Zhang, Yanyun Qu*. Visible Embraces Infrared: Cross-Modality Person Re-identification with Single-Modality Supervision. CCHI'23 **<font color=Red>(CAA-A)</font>**
