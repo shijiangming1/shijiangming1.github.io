@@ -17,6 +17,9 @@ Hi, my name is Jiangming Shi (Chinese: 施江鸣), a Ph.D. Candidate student in 
 <hr>
 <ul>
   <li>
+    <strong><i>2026.02:</i></strong> 🎉 One corresponding-authored paper is accepted by CVPR 2026.
+  </li>
+  <li>
     <strong><i>2026.01:</i></strong> 🎉 One papers are accepted by ICRA 2026.
   </li>
   <li>
@@ -86,9 +89,7 @@ Hi, my name is Jiangming Shi (Chinese: 施江鸣), a Ph.D. Candidate student in 
 
 ## 💬 Academic Service
 ### Conference Committee Member
-- Reviewer for ICML'25, ICLR'25, NeurIPS'25, CVPR'25, ICCV'25
-- Reviewer for AAAI'25, IJCAI'25, ACM MM'25, AISTATS'25
-- Reviewer for NeurIPS'24, CVPR'24, ECCV'24, ACM MM'24
+- Reviewer for ICML, ICLR, NeurIPS, CVPR, ICCV, ECCV, AAAI, IJCAI, ACM MM, ICMR, AISTATS
   
 ### Journal Reviewer
 - Reviewer for IEEE Transactions on Image Processing (TIP)
