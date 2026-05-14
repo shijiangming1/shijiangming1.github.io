@@ -17,13 +17,13 @@ Hi, my name is Jiangming Shi (Chinese: 施江鸣), a Ph.D. Candidate student in 
 <hr>
 <ul>
   <li>
-    <strong><i>2026.05:</i></strong> 🎉 One papers are accepted by ICML 2026.
+    <strong><i>2026.05:</i></strong> 🎉 One paper are accepted by ICML 2026.
   </li>
   <li>
     <strong><i>2026.02:</i></strong> 🎉 One corresponding-authored paper is accepted by CVPR 2026.
   </li>
   <li>
-    <strong><i>2026.01:</i></strong> 🎉 One papers are accepted by ICRA 2026.
+    <strong><i>2026.01:</i></strong> 🎉 One paper are accepted by ICRA 2026.
   </li>
   <li>
     <strong><i>2025.11:</i></strong> 🎉 Two papers are accepted by AAAI 2026 (One Oral).
