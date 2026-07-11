@@ -16,6 +16,9 @@ Hi, my name is Jiangming Shi (Chinese: 施江鸣), I received my Ph.D. from the 
 ======
 <hr>
 <ul>
+    <li>
+    <strong><i>2026.07:</i></strong> 🎉 One corresponding-authored paper is accepted by ACM MM 2026.
+  </li>
   <li>
     <strong><i>2026.05:</i></strong> 🎉 One paper is accepted by ICML 2026.
   </li>
@@ -50,7 +53,7 @@ Hi, my name is Jiangming Shi (Chinese: 施江鸣), I received my Ph.D. from the 
     <strong><i>2024.07:</i></strong> 🎉 One co-first-authored paper is accepted by ACM MM 2024.
   </li>
    <li>
-    <strong><i>2024.07:</i></strong> 🎉 One first-authored paper about is accepted by ECCV 2024.
+    <strong><i>2024.07:</i></strong> 🎉 One first-authored paper is accepted by ECCV 2024.
   </li>
    <li>
     <strong><i>2024.03:</i></strong> 🎉 One first-authored paper is accepted by CAC 2023.
@@ -82,7 +85,7 @@ Hi, my name is Jiangming Shi (Chinese: 施江鸣), I received my Ph.D. from the 
 10. Jiangming Shi, Xiangbo Yin, Demao Zhang, Zhizhong Zhang, Yuan Xie, Yanyun Qu*. Two-Stage Knowledge Distillation for Visible-Infrared Person Re-Identification. PR'25
 11. Xiangbo Yin#, Jiangming Shi#, Zhizhong Zhang, Yuan Xie, Yanyun Qu*. Adaptive Pseudo-label Purification and Debiasing for Unsupervised Visible-Infrared Person Re-Identification. TCSVT'25
 
-## 🏆 Honor & Award
+## 🏆 Honors & Award
 - 2026.01 Yanbao Scholarship (<ins>燕宝奖学金</ins>)
 - 2025.11 National Scholarship (<ins>国家奖学金</ins>)
 - 2025.01 Young Elite Scientists Sponsorship Program - Doctoral Student Special Plan (<ins>中国科协青年人才托举工程-博士生专项计划</ins>), CAST
