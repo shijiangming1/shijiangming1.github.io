@@ -8,7 +8,7 @@ redirect_from:
 ---
 <hr>
 <!-- My name is Jiangming Shi (施江鸣), I'm a Ph.D. student at Institute of Artificial Intelligence, Xiamen University & SII, supervised by Professor Yanyun Qu (曲延云). My research interests are deep learning and computer vision algorithms, such as Multi-modal Learning. -->
-Hi, my name is Jiangming Shi (Chinese: 施江鸣), I received my Ph.D. from the Xiamen University & SII, advised by Prof. Yanyun Qu (XMU) and Prof. Yuan Xie (ECNU). My research interests are multi-modal learning and multi-modal LLM.
+Hi, I am Jiangming Shi (施江鸣). I currently work as an Assistant Professor within the DMCV Research Group, School of Computer Science and Technology, East China Normal University. I obtained my Ph.D. degree at Xiamen University and SII, under the supervision of Professor Yanyun Qu (XMU) and Professor Yuan Xie (ECNU). My research interests include robust multi-modal learning and spatial intelligent.
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
@@ -17,7 +17,7 @@ Hi, my name is Jiangming Shi (Chinese: 施江鸣), I received my Ph.D. from the 
 <hr>
 <ul>
     <li>
-    <strong><i>2026.07:</i></strong> 🎉 One corresponding-authored paper is accepted by ACM MM 2026.
+    <strong><i>2026.07:</i></strong> 🎉 One corresponding-authored paper has been accepted. by ACM MM 2026.
   </li>
   <li>
     <strong><i>2026.05:</i></strong> 🎉 One paper is accepted by ICML 2026.
@@ -72,7 +72,7 @@ Hi, my name is Jiangming Shi (Chinese: 施江鸣), I received my Ph.D. from the 
   </li>
 </ul>
 
-## 📝 Publications
+<!--## 📝 Publications
 1. Jiangming Shi, Xiangbo Yin, Yeyun Chen, Yachao Zhang, Zhizhong Zhang, Yuan Xie, Yanyun Qu*. Multi-Schema Proximity Network for Composed Image Retrieval. ICCV'25 **<font color=Red>(CCF-A)</font>**
 2. Yeyun Chen, Jiangming Shi*. Multilevel Informed Prompt Tuning for Robust Molecular Property Prediction. ICML'25 **<font color=Red>(CCF-A)</font>**
 3. Jiangming Shi, Xiangbo Yin, Yaoxing Wang, Xiaofeng Liu, Yuan Xie, Yanyun Qu*. Learning Commonality, Divergence and Variety for Unsupervised Visible-Infrared Person Re-identification. NeurIPS'24 **<font color=Red>(CCF-A)</font>**
@@ -84,7 +84,7 @@ Hi, my name is Jiangming Shi (Chinese: 施江鸣), I received my Ph.D. from the 
 9. Jiangming Shi, Zixian Gao, Hao Liu. Exploiting invariance of mining facial landmarks. ACM MM'21 **<font color=Red>(CCF-A)</font>**
 10. Jiangming Shi, Xiangbo Yin, Demao Zhang, Zhizhong Zhang, Yuan Xie, Yanyun Qu*. Two-Stage Knowledge Distillation for Visible-Infrared Person Re-Identification. PR'25
 11. Xiangbo Yin#, Jiangming Shi#, Zhizhong Zhang, Yuan Xie, Yanyun Qu*. Adaptive Pseudo-label Purification and Debiasing for Unsupervised Visible-Infrared Person Re-Identification. TCSVT'25
-
+ -->
 ## 🏆 Honors & Award
 - 2026.01 Yanbao Scholarship (<ins>燕宝奖学金</ins>)
 - 2025.11 National Scholarship (<ins>国家奖学金</ins>)
