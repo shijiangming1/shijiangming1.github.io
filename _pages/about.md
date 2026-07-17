@@ -72,7 +72,7 @@ Hi, I am Jiangming Shi (施江鸣). I currently work as an Assistant Professor w
   </li>
 </ul>
 
-<!--## 📝 Publications
+## 📝 Publications
 1. Jiangming Shi, Xiangbo Yin, Yeyun Chen, Yachao Zhang, Zhizhong Zhang, Yuan Xie, Yanyun Qu*. Multi-Schema Proximity Network for Composed Image Retrieval. ICCV'25 **<font color=Red>(CCF-A)</font>**
 2. Yeyun Chen, Jiangming Shi*. Multilevel Informed Prompt Tuning for Robust Molecular Property Prediction. ICML'25 **<font color=Red>(CCF-A)</font>**
 3. Jiangming Shi, Xiangbo Yin, Yaoxing Wang, Xiaofeng Liu, Yuan Xie, Yanyun Qu*. Learning Commonality, Divergence and Variety for Unsupervised Visible-Infrared Person Re-identification. NeurIPS'24 **<font color=Red>(CCF-A)</font>**
@@ -84,7 +84,7 @@ Hi, I am Jiangming Shi (施江鸣). I currently work as an Assistant Professor w
 9. Jiangming Shi, Zixian Gao, Hao Liu. Exploiting invariance of mining facial landmarks. ACM MM'21 **<font color=Red>(CCF-A)</font>**
 10. Jiangming Shi, Xiangbo Yin, Demao Zhang, Zhizhong Zhang, Yuan Xie, Yanyun Qu*. Two-Stage Knowledge Distillation for Visible-Infrared Person Re-Identification. PR'25
 11. Xiangbo Yin#, Jiangming Shi#, Zhizhong Zhang, Yuan Xie, Yanyun Qu*. Adaptive Pseudo-label Purification and Debiasing for Unsupervised Visible-Infrared Person Re-Identification. TCSVT'25
- -->
+
 ## 🏆 Honors & Award
 - 2026.01 Yanbao Scholarship (<ins>燕宝奖学金</ins>)
 - 2025.11 National Scholarship (<ins>国家奖学金</ins>)
