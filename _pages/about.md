@@ -7,8 +7,7 @@ redirect_from:
   - /about.html
 ---
 <hr>
-<!-- My name is Jiangming Shi (施江鸣), I'm a Ph.D. student at Institute of Artificial Intelligence, Xiamen University & SII, supervised by Professor Yanyun Qu (曲延云). My research interests are deep learning and computer vision algorithms, such as Multi-modal Learning. -->
-Hi, I am Jiangming Shi (施江鸣). I currently work as an Assistant Professor within the DMCV Research Group, School of Computer Science and Technology, East China Normal University. I obtained my Ph.D. degree at Xiamen University and SII, under the supervision of Professor Yanyun Qu (XMU) and Professor Yuan Xie (ECNU). My research interests include robust multi-modal learning and spatial intelligent.
+Hi, I am Jiangming Shi (施江鸣). I currently work as an Assistant Professor within the DMCV Research Group, School of Computer Science and Technology, East China Normal University. I obtained my Ph.D. degree from Xiamen University and SII, under the supervision of Professor Yanyun Qu (XMU) and Professor Yuan Xie (ECNU). My research interests include robust multi-modal learning and spatial intelligent.
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
