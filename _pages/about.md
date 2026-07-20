@@ -16,7 +16,7 @@ Hi, I am Jiangming Shi (施江鸣). I currently work as an Assistant Professor w
 <hr>
 <ul>
     <li>
-    <strong><i>2026.07:</i></strong> 🎉 One corresponding-authored paper has been accepted. by ACM MM 2026.
+    <strong><i>2026.07:</i></strong> 🎉 One corresponding-authored paper has been accepted by ACM MM 2026.
   </li>
   <li>
     <strong><i>2026.05:</i></strong> 🎉 One paper is accepted by ICML 2026.
