@@ -15,14 +15,17 @@ Hi, I am Jiangming Shi (施江鸣). I currently work as an Assistant Professor w
 ======
 <hr>
 <ul>
-    <li>
-    <strong><i>2026.07:</i></strong> 🎉 One corresponding-authored paper has been accepted by ACM MM 2026.
+  <li>
+    <strong><i>2026.07:</i></strong> 🎉 One paper has been accepted by TIP.
+  </li>
+  <li>
+    <strong><i>2026.07:</i></strong> 🎉 One paper has been accepted by ACM MM 2026.
   </li>
   <li>
     <strong><i>2026.05:</i></strong> 🎉 One paper is accepted by ICML 2026.
   </li>
   <li>
-    <strong><i>2026.02:</i></strong> 🎉 One corresponding-authored paper is accepted by CVPR 2026.
+    <strong><i>2026.02:</i></strong> 🎉 One paper is accepted by CVPR 2026.
   </li>
   <li>
     <strong><i>2026.01:</i></strong> 🎉 One paper is accepted by ICRA 2026.
@@ -34,40 +37,40 @@ Hi, I am Jiangming Shi (施江鸣). I currently work as an Assistant Professor w
     <strong><i>2025.06:</i></strong> 🎉 Two papers are accepted by ICCV 2025.
   </li>
   <li>
-    <strong><i>2025.05:</i></strong> 🎉 One co-first-authored paper is accepted by TCSVT.
+    <strong><i>2025.05:</i></strong> 🎉 One paper is accepted by TCSVT.
   </li>
   <li>
-    <strong><i>2025.05:</i></strong> 🎉 One first-authored paper is accepted by Pattern Recognition.
+    <strong><i>2025.05:</i></strong> 🎉 One paper is accepted by Pattern Recognition.
   </li>
   <li>
-    <strong><i>2025.05:</i></strong> 🎉 One corresponding-authored paper is accepted by ICML 2025.
+    <strong><i>2025.05:</i></strong> 🎉 One paper is accepted by ICML 2025.
   </li>
    <li>
     <strong><i>2025.01:</i></strong> 🎉 I was supported by Young Elite Scientists Sponsorship Program by CAST - Doctoral Student Special Plan.
   </li>
    <li>
-    <strong><i>2024.09:</i></strong> 🎉 One first-authored paper is accepted by NeurIPS 2024.
+    <strong><i>2024.09:</i></strong> 🎉 One paper is accepted by NeurIPS 2024.
   </li>
      <li>
-    <strong><i>2024.07:</i></strong> 🎉 One co-first-authored paper is accepted by ACM MM 2024.
+    <strong><i>2024.07:</i></strong> 🎉 One paper is accepted by ACM MM 2024.
   </li>
    <li>
-    <strong><i>2024.07:</i></strong> 🎉 One first-authored paper is accepted by ECCV 2024.
+    <strong><i>2024.07:</i></strong> 🎉 One paper is accepted by ECCV 2024.
   </li>
    <li>
-    <strong><i>2024.03:</i></strong> 🎉 One first-authored paper is accepted by CAC 2023.
+    <strong><i>2024.03:</i></strong> 🎉 One paper is accepted by CAC 2023.
   </li>
   <li>
-    <strong><i>2023.12:</i></strong> 🎉 One first-authored paper is accepted by AAAI 2024.
+    <strong><i>2023.12:</i></strong> 🎉 One paper is accepted by AAAI 2024.
   </li>
   <li>
-    <strong><i>2023.10:</i></strong> 🎉 One first-authored paper is awarded as Best Paper by CCHI 2023.
+    <strong><i>2023.10:</i></strong> 🎉 One paper is awarded as Best Paper by CCHI 2023 (CAA-A).
   </li>
   <li>
-    <strong><i>2023.07:</i></strong> 🎉 One first-authored paper is accepted by ICCV 2023.
+    <strong><i>2023.07:</i></strong> 🎉 One paper is accepted by ICCV 2023.
   </li>
   <li>
-    <strong><i>2021.10:</i></strong> 🎉 One first-authored  paper is accepted by ACM MM 2021.
+    <strong><i>2021.10:</i></strong> 🎉 One paper is accepted by ACM MM 2021.
   </li>
 </ul>
 
